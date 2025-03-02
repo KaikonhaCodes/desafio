@@ -42,15 +42,6 @@ Densidade demográfica
 
 O programa compara o atributo e exibe qual cidade venceu.
 
-Como Executar
-
-Compile o programa com um compilador C, como o GCC:
-
-gcc super_trunfo.c -o super_trunfo
-
-Execute o programa:
-
-./super_trunfo
 
 Siga as instruções do terminal para inserir os dados e escolher o atributo para comparação.
 
